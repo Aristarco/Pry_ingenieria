@@ -22,21 +22,18 @@ Cada uno de las ramas del mapa mental indican potenciales fuentes de pérdida de
 ``` mermaid
 
 mindmap
-id(I am a rounded square)
 
-  root((**Agua**))
+
+  root((**Agua** 💦))
     **Baños**
-      Long history
-      ::icon(fa fa-book)
-      Popularisation
-        British popular psychology author Tony Buzan
+        Sapos del Baño 🐸
     **Cafetería**
-      Lavavajillas
-      Limpieza
-        Uses
-            Creative techniques
-            Strategic planning
-            Argument mapping
+        Lavavajillas
+        Limpieza 🧹
+        Usos Menores
+            Lavado de frutas y verduras
+            Agua beber
+            Alimentos
     **Riego**
       Jardines
       Campos deportivos
