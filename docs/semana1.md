@@ -22,22 +22,24 @@ Cada uno de las ramas del mapa mental indican potenciales fuentes de pérdida de
 ``` mermaid
 
 mindmap
-  root((Agua))
-    Baños
+id(I am a rounded square)
+
+  root((**Agua**))
+    **Baños**
       Long history
       ::icon(fa fa-book)
       Popularisation
         British popular psychology author Tony Buzan
-    Cafetería
-      On effectiveness<br/>and features
-      On Automatic creation
+    **Cafetería**
+      Lavavajillas
+      Limpieza
         Uses
             Creative techniques
             Strategic planning
             Argument mapping
     **Riego**
-      Pen and paper
-      Mermaid
+      Jardines
+      Campos deportivos
     **Lluvia**
         Techos
         Estacionamiento
