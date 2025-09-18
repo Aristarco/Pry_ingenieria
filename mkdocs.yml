@@ -1,4 +1,4 @@
-site_name: Proyectos de ingeniería
+site_name: " "
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
