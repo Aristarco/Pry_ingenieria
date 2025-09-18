@@ -40,5 +40,9 @@ mindmap
         Estacionamiento
 
 ```
+Design thinking
 
+![Diagrama del sistema](recursos/imgs/Design%20thinking.jpg)
+
+<img src="../recursos/imgs/Design%20thinking.jpg" alt="Tabla con fases de design thinking para el problema del desperdicio del agua en una universidad" width="420">
 
