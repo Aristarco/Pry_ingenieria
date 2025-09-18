@@ -7,9 +7,26 @@
 ## Design Thinking
 
 !!! tip "Tarea 1"
-    Problema: "Reducción del desperdicio de agua en instalaciones universitarias"
+    1.	Revisa de manera individual el artículo “Solución de problemas de producción en una empresa manufacturera de calzado en León Guanajuato, México” 
+    2.  Problema: "Reducción del desperdicio de agua en instalaciones universitarias"
     Hacer un mapa mental
     Identificar etapas del design thinking
+
+
+### Revisa de manera individual el artículo “Solución de problemas de producción en una empresa manufacturera de calzado en León Guanajuato, México” 
+
+| Etapas del método científico | Descripción |
+|-----------:|:-----:|
+| **Definición del Problema**   | 2     |
+| MCU Y      | 1     |
+
+
+
+
+### Problema: "Reducción del desperdicio de agua en instalaciones universitarias"
+    Hacer un mapa mental
+    Identificar etapas del design thinking
+
 
 Lo primero que hice fue acudir con las autoridades de **Campus Sustentable** las cuales, después de una entrevista en profundidad, **Negaron que exista un problema de desperdicio de agua en la Universidad**. Yo comparto este punto de vista dados los sistemas con que contamos como la recolección del agua de lluvia del IDIT, el uso de aguas grises para regar los campos deportivos, el uso de mingitorios sin agua, etc. 
 
