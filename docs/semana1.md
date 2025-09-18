@@ -22,9 +22,7 @@ Cada uno de las ramas del mapa mental indican potenciales fuentes de pérdida de
 ``` mermaid
 
 mindmap
-
-
-  root((**Agua** 💦))
+  root((**Agua**))
     **Baños**
         Sapos del Baño 🐸
     **Cafetería**
@@ -40,6 +38,7 @@ mindmap
     **Lluvia**
         Techos
         Estacionamiento
+
 ```
 
 
