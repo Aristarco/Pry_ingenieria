@@ -4,6 +4,8 @@
   await mermaid.registerExternalDiagrams([mindmap]);
 </script>
 
+Prueba de Mermaid 
+
 ``` mermaid
 
 erDiagram
