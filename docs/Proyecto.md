@@ -33,3 +33,20 @@ Aquí se presenta el desarrollo integral del proyecto, desde la identificación 
 3.	Diseñar un cabezal colocador de imanes con alta precisión. 
 4.	Programar el PLC para coordinar todos los sistemas de manera eficiente. 
 5.	Validar el funcionamiento mediante pruebas exhaustivas. 
+
+
+# Introducción 
+
+
+
+# Justificación
+
+    Dado que el motor eléctrico utiliza imanes permanentes, el rotor debe generar varios campos magnéticos que interactúen con el estator y sus devanados. Estos campos se forman gracias a la distribución precisa de diferentes imanes a lo largo del rotor, los cuales están organizados en tres capas, cada una compuesta por 32 imanes. El proceso tradicional requiere que un operador coloque manualmente los imanes en cada capa, para luego apilarlas con un desfase angular entre ellas. 
+
+    Este proceso no solo demanda alta precisión y velocidad debido al tamaño reducido de los imanes, sino que también implica la manipulación de 96 imanes por rotor. Una vez ensamblado, el estator completo es fijado mediante una resina que posteriormente se hornea. En caso de errores durante la colocación, el retiro de la resina resulta sumamente complicado, lo que genera grandes pérdidas de materia prima y tiempo. 
+
+    Actualmente, Schaeffler de México, S. de R.L. de C.V., cuenta con un prototipo de plantilla que facilita el llenado rápido de cada capa. Además, se utiliza una cámara para verificar manualmente que todos los espacios en la plantilla estén ocupados por imanes, reduciendo parcialmente los errores, pero con una dependencia significativa de la intervención humana.
+
+
+
+
