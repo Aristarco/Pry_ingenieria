@@ -17,7 +17,8 @@
     Hacer un mapa mental
     Identificar etapas del design thinking
 
-<!--->
+<!---
+
 ### Revisa de manera individual el artículo “Solución de problemas de producción en una empresa manufacturera de calzado en León Guanajuato, México” 
 
 | Etapas del método científico | Descripción |
