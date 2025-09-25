@@ -59,6 +59,13 @@ Este proceso no solo demanda alta precisión y velocidad debido al tamaño reduc
  Actualmente, Schaeffler de México, S. de R.L. de C.V., cuenta con un prototipo de plantilla que facilita el llenado rápido de cada capa. Además, se utiliza una cámara para verificar manualmente que todos los espacios en la plantilla estén ocupados por imanes, reduciendo parcialmente los errores, pero con una dependencia significativa de la intervención humana.
 
 
+# Cronograma / Gantt
+
+
+
+<iframe src="https://docs.google.com/spreadsheets/d/1ArT94CnzylqBMEsCnBJcbGcQkUuigKVv/edit?usp=sharing&ouid=118419766353546707509&rtpof=true&sd=true" frameborder="0" width="1280" height="500" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
 # Bibliografía
 
 
