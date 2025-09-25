@@ -4,6 +4,18 @@
   await mermaid.registerExternalDiagrams([mindmap]);
 </script>
 
+## Método científico
+
+“Solución de problemas de producción en una empresa manufacturera de calzado en León Guanajuato, México”
+
+
+[Descargar el Documento (PDF)](./recursos/archivos/tarea_2_S1.pdf)
+
+<iframe src="../recursos/archivos/tarea_2_S1.pdf" width="800" height="440"></iframe>
+
+
+
+
 ## Design Thinking
 
 !!! tip "Tarea 1"
