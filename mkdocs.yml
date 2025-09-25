@@ -1,4 +1,4 @@
-site_name: " "
+site_name: " Curso Proyectos de Ingeniería "
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
