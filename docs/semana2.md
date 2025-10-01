@@ -37,3 +37,19 @@ La variable independiente es la velocidad con la que abre y cierra la compuerta 
 La variable de control será la velocidad de giro de la plantilla en la que se colocan los imanes, con el objetivo de cumplir con la propuesta de 45 segundos ciclo. 
 
 
+**Diseño Experimental**
+
+Es un técnica estadística que permite identificar y cuantificar las causas de un efecto dentro de un estudio experimental. Se planifica el proceso para probar hipótesis y validar soluciones. 
+
+Un elemento indispensable para el proyecto de colocación de imanes para Sheaffler es la repetitibilidad y control de procesos. 
+
+Definidas las variables se procedió a hacer el experimento por bloques variando la velocidad de apertura y cierre del colocador de imanes. 
+
+Una vez optimizada la velocidad a 45 segundo por ciclo se procedió a aumentar ka velocidad de insersión de los imanes hasta alcanzar 26 segundos por ciclo, antes de fallos. 
+
+Se determino que el colocado de algunas piezas fallaba por consecuencia del roce del iman con la tolva colocadora por lo que se determina cambiar el material de la tolva a plástico de ultra alto peso molecular que es extremadamente deslizante para repetir el experimento. 
+
+Se estima que con los cambios se podrá alcanzar la velocidad de 15 segundos por ciclo. Esto sería 70% más veloz que el requerido originalmente. Nuestro dispositivo pordía atender dos estaciones de armado de forma sobrada. 
+
+
+
