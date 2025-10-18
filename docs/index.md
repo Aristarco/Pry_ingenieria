@@ -12,7 +12,7 @@ información referente al proyecto que quisieran desarrollar a lo largo de este 
 
 [Descargar el Documento (PDF)](./recursos/archivos/ficha_analisis_proyecto_S1.pdf)
 
-<iframe src="../recursos/archivos/ficha_analisis_proyecto_S1.pdf" width="800" height="440"></iframe>
+<iframe src="./recursos/archivos/ficha_analisis_proyecto_S1.pdf" width="800" height="440"></iframe>
 
 
 
